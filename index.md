@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
+title: Chiamanda Ononiwu
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Be strong, and courageous. Do Not Be Afraid"
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
+  - "🎓 Incoming Sophmore, Electrical Engineering @ McNeese State University"
+  - "🔬 Research: AI and Neural Networks"
+  - "📍 Based in Lake Charles, LA"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: www.linkedin.com/in/chiamanda-ononiwu
 image: /assets/images/me.jpg
 ---
