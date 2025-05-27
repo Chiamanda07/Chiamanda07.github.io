@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Lake Charles, LA"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: www.linkedin.com/in/chiamanda-ononiwu
+linkedin: [www.linkedin.com/in/chiamanda-ononiwu](https://www.linkedin.com/in/chiamanda-ononiwu-97a143280/)
 image: /assets/images/me.jpg
 ---
