@@ -3,7 +3,7 @@ layout: home
 title: Chiamanda Ononiwu
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Be strong, and courageous. Do Not Be Afraid"
+motto: "Be Strong, and Courageous. Do Not Be Afraid"
 
 quick_facts:
   - "🎓 Incoming Sophmore, Electrical Engineering @ McNeese State University"
