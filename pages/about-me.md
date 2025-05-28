@@ -28,8 +28,8 @@ about:
       caption: A nice picture of me
     - image: assets/images/me- friends.jpeg
       caption: Working on a drivetrain with friends
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    - image: assets/images/me-vexbot.jpeg
+      caption: My first bot, which I worked on by myself
+    - image: assets/images/DNBA cover.png
+      caption: My first book
 ---
