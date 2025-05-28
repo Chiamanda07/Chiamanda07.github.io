@@ -10,7 +10,7 @@ about:
   linkedin: https://www.linkedin.com/in/chiamanda-ononiwu/
   bio: |
     I'm an electrical engineering student at McNeese State University. Passionate about robotics, I aspire to work at Boston Dynamics one day. I enjoy coding. I’m also exploring data analytics and constantly looking for ways to grow as a future robotics engineer.
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+    Apart from that, I enjoy volunteering, my favorite color is blue, and my favorite food is Ukwa.
 
   hobbies:
     - icon: 💃
