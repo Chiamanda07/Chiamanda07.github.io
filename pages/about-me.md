@@ -4,27 +4,24 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Chiamanda Ononiwu
+  role: Incoming Sophmore, Electrical Engineering Major at McNeese State University
+  image: assets/images/me-picture.jpg
+  linkedin: https://www.linkedin.com/in/chiamanda-ononiwu/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
-
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
-
+    I'm an electrical engineering student at McNeese State University. Passionate about robotics, I aspire to work at Boston Dynamics one day. I enjoy coding. I’m also exploring data analytics and constantly looking for ways to grow as a future robotics engineer.
     When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
 
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
+    - icon: 💃
+      title: Dancing
+      description: I love dancing and watching dance performances.
+    - icon: ✍🏽
+      title: Writing
+      description: I enjoy writing things that encourage other people to continue going in life.
     - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+      title: AI enthusiast
+      description: I'm always looking for ways to learn more on AI, not only learning the backend, but understanding and learnign how to build AI agents.
 
   gallery:
     - image: /assets/images/me-guitar.png
