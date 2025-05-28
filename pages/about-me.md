@@ -24,10 +24,10 @@ about:
       description: I'm always looking for ways to learn more on AI, not only learning the backend, but understanding and learnign how to build AI agents.
 
   gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
+    - image: assets/images/me- photo.jpeg
+      caption: A nice picture of me
+    - image: assets/images/me- friends.jpeg
+      caption: Working on a drivetrain with friends
     - image: /assets/images/me.jpg
       caption: My favorite portrait of myself :)
     - image: /assets/images/me-pi.png
