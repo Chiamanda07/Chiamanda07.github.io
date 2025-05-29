@@ -4,12 +4,12 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
+  name: Oluwafemi Ifesanmi
+  title: Masters Student, Advanced Computing
   image: /assets/images/graduate-student-mentor.jpg
   website: https://gradmentor.example.com
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Oluwafemi Ifesanmi is a goal-oriented, diligent, young man with a drive for excellence. He possesses excellent interpersonal skills, pleasant personality, industrious ability and a sound analytical mindset. He is on a path to building a career which reflects his passion while he makes contribution to the development of any organization he finds himself.
     
     Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
 
