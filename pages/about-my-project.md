@@ -3,7 +3,7 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
+subtitle: Smart Waste Management & AI-Powered Collection Optimization
 project_title: "Smart AI-Based Waste Bin Monitoring and Collection Optimization on Morgan State University Campus"
 
 problem: |
