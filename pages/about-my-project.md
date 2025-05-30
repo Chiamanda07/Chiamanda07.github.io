@@ -4,33 +4,31 @@ title: About My Project
 permalink: /about-my-project.html
 
 subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+project_title: "Smart AI-Based Waste Bin Monitoring and Collection Optimization on Morgan State University Campus"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
+  This project addresses the pressing issue of inefficient waste collection systems, which often lead to overflowing bins, sanitation challenges, and environmental degradation.
 
   This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
 
 approach: |
-  The project follows a four-phase pipeline:
-
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  The key components of this approach include:
+  - Bin Fill Detection: Use YOLO (You Only Look Once) object detection on images from IoT camera sensors to monitor bin fill levels in real time.
+  - Forecasting Accumulation: Apply LSTM networks to time-series data to predict future waste trends and potential bin overflows.
+  - Optimized Scheduling: Implement reinforcement learning (PPO or DQN) to simulate and improve waste collection routes and timing.
+  - Visualization Dashboard: Develop a user-friendly dashboard to display bin statuses, overflow predictions, and optimized collection plans.
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  By the end of the program, the project will result to develop a smart, AI-powered waste bin monitoring system tailored to the Morgan State University campus.This solution will foster sustainability, reduce operational costs, and improve campus cleanliness.
+  Particularly as a student in this project, at the end of the Program, I should understand and implement state-of-the-art deep learning models, analyze real-world data, and apply AI to sustainability, and contribute to a functional prototype with real-world application potential..
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Oluwafemi Ifesanmi
+  linkedin: https://www.linkedin.com/in/oluwafemi-ifesanmi/
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Steve Efe
+  linkedin: https://www.linkedin.com/in/drsteveefe/
 ---
